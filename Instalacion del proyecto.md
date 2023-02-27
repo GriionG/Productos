@@ -28,7 +28,7 @@ Instalación
 
 ![Base de datos](https://cdn.discordapp.com/attachments/876615087119548417/1079162165300297849/Base_de_datos_.png)
 
-![Importar](https://cdn.discordapp.com/attachments/876615087119548417/1079162200951885863/importar.png)
+![Importar](https://cdn.discordapp.com/attachments/876615087119548417/1079806492070400000/importar2.png)
 
 >Opcional
 6. Si es que no hemos cambiado nada del xampp o el nombre de la base de datos ya podríamos visualizar el proyecto pero si hemos hecho cambios entonces deberíamos de configurar unas cosas en un archivo para poder ver todo de la manera correcta, entraremos a la carpeta de productos y después a la capeta de bd y entraremos a el archivo **config.php**, *se recomienda abrirlo con un editor de códigos* cuando estemos dentro de ese archivo podremos ver 4 opciones una de server una de nombre otra de usuario y una de contraseña si es que hemos cambiado algo de esos lo modificaremos para poder visualizar la página correctoramente.
