@@ -37,7 +37,7 @@ Instalación
 
 7. Ya podremos visualizar la página y manipularla solo tenemos que entrar a nuestro navegador y entrar desde la url con el siguiente link **http://localhost/Productos-master/index.php**.
 
- ![Pagina](https://cdn.discordapp.com/attachments/876615087119548417/1079165676780003409/pagina_.png)
+ ![Pagina](https://cdn.discordapp.com/attachments/876615087119548417/1079806071583027220/pagina2.png)
  
 
 > Eso sería todo gracias por leer ;)
