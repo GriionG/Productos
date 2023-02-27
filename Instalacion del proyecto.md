@@ -14,7 +14,7 @@ Instalación
 
 ![Descomprimir](https://cdn.discordapp.com/attachments/876615087119548417/1079155771205492766/Descomprimir_.png)
 
-![Carpeta](https://cdn.discordapp.com/attachments/876615087119548417/1079155771511668777/Carpeta.png)
+![Carpeta](https://cdn.discordapp.com/attachments/876615087119548417/1079805073586139287/archivos.png)
 
 3. Abriremos el programa de XAMPP y prenderemos los puertos de Apache y MySQL para poder entrar a nuestro **localhost**
 
